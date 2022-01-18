@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mt26
-- 👀 I’m interested in cybersecurity and web development. 
-- 🌱 I’m currently learning cybersecurity. 
+- 👀 I’m interested in cybersecurity and web development.  
 - 💞️ I’m looking to collaborate on web development projects as I'm a full-stack developer.
 - 📫 How to reach me: mail me at manntanwani@gmail.com or hit me up on linkedin @Mann Tanwani
 
